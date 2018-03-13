@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "test",
+  "version": "",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
+  }
+}
